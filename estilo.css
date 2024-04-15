@@ -1,0 +1,21 @@
+body{
+    background: #000;
+    width: 700px;
+    margin: auto;
+}
+h1{
+    color: #fff;
+}
+#principal{
+    background: #777;
+}
+.contenedor{
+    width: 600px;
+    border: 1px solid #ff5100;
+    margin-top: 15px;
+    display: flex;
+}
+.contenedor>div.img{
+    background: #777;
+    color: #fff;
+}
